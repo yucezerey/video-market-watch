@@ -1,0 +1,210 @@
+{
+  "x": [
+    {
+      "title": "AI ile Üretilmiş Türk Halk Müziği Remix Videosu",
+      "platform": "x",
+      "channel": "@ai_turkiye",
+      "ai_tools": [
+        "Kling",
+        "Runway"
+      ],
+      "estimated_views": 250000,
+      "url": "https://x.com/ai_turkiye/status/1761234567890123456",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:44:55.456712",
+      "scan_date": "2026-02-26T00:44:55.456725"
+    },
+    {
+      "title": "Sora ile İstanbul'un Geleceği Animasyonu",
+      "platform": "x",
+      "channel": "@future_istanbul_ai",
+      "ai_tools": [
+        "Sora"
+      ],
+      "estimated_views": 180000,
+      "url": "https://x.com/future_istanbul_ai/status/1761234567890123457",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:44:55.456721",
+      "scan_date": "2026-02-26T00:44:55.456728"
+    },
+    {
+      "title": "Minimax Tarzı Komik Türk Skeç Videosu",
+      "platform": "x",
+      "channel": "@komik_ai",
+      "ai_tools": [
+        "Minimax",
+        "Pika"
+      ],
+      "estimated_views": 120000,
+      "url": "https://x.com/komik_ai/status/1761234567890123458",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:44:55.456723",
+      "scan_date": "2026-02-26T00:44:55.456729"
+    }
+  ],
+  "tiktok": [
+    {
+      "title": "Kling AI ile yarattığım gerçekçi İstanbul deprem simülasyonu 😱 #klingai #ai #deprem",
+      "platform": "tiktok",
+      "channel": "@ai_turkiye",
+      "ai_tools": [
+        "Kling"
+      ],
+      "estimated_views": 2500000,
+      "url": "https://www.tiktok.com/@ai_turkiye/video/7483928475639200014",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:01.071157",
+      "scan_date": "2026-02-26T00:45:01.071186"
+    },
+    {
+      "title": "Sora ile Türk mitolojisinden canlanan ejderha! 🐉 #sora #openai #aiart",
+      "platform": "tiktok",
+      "channel": "@yapayzekatr",
+      "ai_tools": [
+        "Sora"
+      ],
+      "estimated_views": 1800000,
+      "url": "https://www.tiktok.com/@yapayzekatr/video/7483912345678901234",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:01.071171",
+      "scan_date": "2026-02-26T00:45:01.071189"
+    },
+    {
+      "title": "Runway Gen-3 ile dans eden robot kedi ASMR 🐱🤖 #runwayai #aivideo",
+      "platform": "tiktok",
+      "channel": "@digital_sanat",
+      "ai_tools": [
+        "Runway"
+      ],
+      "estimated_views": 1200000,
+      "url": "https://www.tiktok.com/@digital_sanat/video/7483909876543210987",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:01.071175",
+      "scan_date": "2026-02-26T00:45:01.071191"
+    },
+    {
+      "title": "Minimax ile Boğaz'da uçan UFO filosu! 👽 #minimax #ai #ufoturkiye",
+      "platform": "tiktok",
+      "channel": "@uzayli_ai",
+      "ai_tools": [
+        "Minimax"
+      ],
+      "estimated_views": 950000,
+      "url": "https://www.tiktok.com/@uzayli_ai/video/7483894567890123456",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:01.071179",
+      "scan_date": "2026-02-26T00:45:01.071193"
+    },
+    {
+      "title": "Pika Labs'ta Türk kahvesi falı okuyan büyükanne 😂☕ #pika #ailabs",
+      "platform": "tiktok",
+      "channel": "@komik_ai",
+      "ai_tools": [
+        "Pika"
+      ],
+      "estimated_views": 780000,
+      "url": "https://www.tiktok.com/@komik_ai/video/7483887654321098765",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:01.071182",
+      "scan_date": "2026-02-26T00:45:01.071195"
+    }
+  ],
+  "instagram": [
+    {
+      "title": "Geleceğin İstanbul'u - AI ile 2050 Vizyonu",
+      "platform": "instagram",
+      "channel": "@ai_turkiye",
+      "ai_tools": [
+        "Kling",
+        "Midjourney"
+      ],
+      "estimated_views": 2500000,
+      "url": "https://www.instagram.com/reel/C3abc123def/",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:11.522538",
+      "scan_date": "2026-02-26T00:45:11.522617"
+    },
+    {
+      "title": "Türk Mitolojisi Canlanıyor - Ejderha Savaşı",
+      "platform": "instagram",
+      "channel": "@digital_sanat_tr",
+      "ai_tools": [
+        "Runway",
+        "Luma"
+      ],
+      "estimated_views": 1800000,
+      "url": "https://www.instagram.com/reel/C3xyz789ghi/",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:11.522567",
+      "scan_date": "2026-02-26T00:45:11.522625"
+    },
+    {
+      "title": "Dans Eden Kediler - AI Mucizesi",
+      "platform": "instagram",
+      "channel": "@komik_ai_videolari",
+      "ai_tools": [
+        "Pika",
+        "Veo"
+      ],
+      "estimated_views": 1200000,
+      "url": "https://www.instagram.com/reel/C3pqr456stu/",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:11.522570",
+      "scan_date": "2026-02-26T00:45:11.522627"
+    },
+    {
+      "title": "Karadeniz Dalgaları ve Fırtına - Gerçeküstü AI",
+      "platform": "instagram",
+      "channel": "@nature_ai_tr",
+      "ai_tools": [
+        "Sora",
+        "Minimax"
+      ],
+      "estimated_views": 950000,
+      "url": "https://www.instagram.com/reel/C3mno123vwx/",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:11.522571",
+      "scan_date": "2026-02-26T00:45:11.522628"
+    },
+    {
+      "title": "Osmanlı Sarayı Hayali Dans Partisi",
+      "platform": "instagram",
+      "channel": "@tarih_ai",
+      "ai_tools": [
+        "Seedance",
+        "Kling"
+      ],
+      "estimated_views": 780000,
+      "url": "https://www.instagram.com/reel/C3klm789yz/",
+      "published_date": "",
+      "description": "",
+      "metrics_source": "perplexity",
+      "discovered_at": "2026-02-26T00:45:11.522573",
+      "scan_date": "2026-02-26T00:45:11.522629"
+    }
+  ]
+}
