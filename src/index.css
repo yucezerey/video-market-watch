@@ -1,0 +1,49 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #1D1D1F;
+  --color-secondary: #86868B;
+  --color-bg: #FFFFFF;
+  --color-bg-alt: #F5F5F7;
+  --color-surface: #FFFFFF;
+  --color-border: #D2D2D7;
+  --color-accent: #FF3B30;
+  --color-accent-purple: #5E5CE6;
+  --color-accent-orange: #FF9500;
+  --color-accent-green: #34C759;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  background: var(--color-bg);
+  color: var(--color-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, #FF3B30 0%, #5E5CE6 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.72);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+
+.card-hover {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+}
+
+.score-bar {
+  background: linear-gradient(90deg, #FF3B30, #FF9500, #34C759);
+  border-radius: 999px;
+}
